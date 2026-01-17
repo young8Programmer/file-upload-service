@@ -1,4 +1,5 @@
 // componentlarni qayta tashkilash
+// routing muammosi hal qilindi
 const { Router } = require("express");
 const { getme } = require("./controller");
 
