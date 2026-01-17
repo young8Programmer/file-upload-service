@@ -1,4 +1,5 @@
 // kod uslubini yaxshilash
+// component testlari yaratildi
 const { redFile, writeFile } = require("../../utils/fs")
 const path = require("path")
 
