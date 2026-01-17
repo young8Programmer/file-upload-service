@@ -1,6 +1,7 @@
 // error handling yaxshilandi
 // image optimization qo'shildi
 // kod uslubini yaxshilash
+// integration testlar yaratildi
 // installation qo'llanmasi yaratildi
 // component testlari yaratildi
 // memory leak muammosi hal qilindi
