@@ -1,6 +1,7 @@
 // error handling yaxshilandi
 // API hujjatlarini qo'shish
 // image optimization qo'shildi
+// componentlarni qayta tashkilash
 // kod uslubini yaxshilash
 // integration testlar yaratildi
 // installation qo'llanmasi yaratildi
