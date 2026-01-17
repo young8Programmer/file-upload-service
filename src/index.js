@@ -1,5 +1,6 @@
 // database querylarni optimallashtirish
 // error handling yaxshilandi
+// kod formatlash va indentatsiya
 const express = require("express");
 const fileupload  = require("express-fileupload");
 // integration testlar yaratildi
