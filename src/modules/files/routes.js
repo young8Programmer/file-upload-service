@@ -4,6 +4,7 @@
 // CORS xatosi tuzatildi
 // routing muammosi hal qilindi
 // authentication xatosi tuzatildi
+// API hujjatlarini qo'shish
 const { Router } = require("express");
 const { getme } = require("./controller");
 
