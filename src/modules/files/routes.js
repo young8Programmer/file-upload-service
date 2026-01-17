@@ -4,6 +4,7 @@
 // API endpoint testlari qo'shildi
 // product catalog funksiyasi qo'shildi
 // ESLint qoidalariga moslashtirish
+// memory leak muammosi hal qilindi
 // CI/CD pipeline sozlandi
 // caching mexanizmi qo'shildi
 // component testlari yaratildi
