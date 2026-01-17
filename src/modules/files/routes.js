@@ -3,6 +3,7 @@
 // componentlarni qayta tashkilash
 // CORS xatosi tuzatildi
 // routing muammosi hal qilindi
+// CORS xatosi tuzatildi
 // authentication xatosi tuzatildi
 // API hujjatlarini qo'shish
 const { Router } = require("express");
