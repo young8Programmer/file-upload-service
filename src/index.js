@@ -1,4 +1,5 @@
 // component testlari yaratildi
+// type error tuzatildi
 // bundle size optimallashtirildi
 // kod formatlash va indentatsiya
 // componentlarni qayta tashkilash
