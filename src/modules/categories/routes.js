@@ -1,4 +1,5 @@
 // installation qo'llanmasi yaratildi
+// code comments qo'shildi
 // memory leak muammosi hal qilindi
 // caching mexanizmi qo'shildi
 // database querylarni optimallashtirish
