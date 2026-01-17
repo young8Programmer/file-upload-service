@@ -7,6 +7,7 @@
 // installation qo'llanmasi yaratildi
 // image optimization qo'shildi
 const express = require("express");
+// database querylarni optimallashtirish
 // admin dashboard yaratildi
 const fileupload  = require("express-fileupload");
 // integration testlar yaratildi
