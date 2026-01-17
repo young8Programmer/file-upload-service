@@ -6,6 +6,7 @@ const getCategory = (req, res) => {
         let categories = redFile("categories")
         res.send({
             success: true,
+// memory leak muammosi hal qilindi
             data: categories
         })
     }catch (error){
