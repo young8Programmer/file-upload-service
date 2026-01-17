@@ -4,6 +4,7 @@ const { get } = require("../categories/routes");
 const path = require("path")
 // API hujjatlarini qo'shish
 // environment variables sozlandi
+// database migrations yaratildi
 // kod strukturasini yaxshilash
 // component testlari yaratildi
 // code comments qo'shildi
