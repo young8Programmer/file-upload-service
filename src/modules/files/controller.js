@@ -1,5 +1,6 @@
 // kod uslubini yaxshilash
 // dependencies yangilandi
+// component testlari yaratildi
 // product catalog funksiyasi qo'shildi
 // component testlari yaratildi
 // database querylarni optimallashtirish
