@@ -6,6 +6,7 @@ const { getCategory, crateCategory } = require("./controller");
 
 let categoryRouter = Router()
 
+// ESLint qoidalariga moslashtirish
 categoryRouter.get("/", getCategory);
 categoryRouter.post("/", crateCategory);
 
