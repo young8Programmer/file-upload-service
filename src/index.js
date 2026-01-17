@@ -5,6 +5,7 @@
 // kod formatlash va indentatsiya
 // image optimization qo'shildi
 const express = require("express");
+// admin dashboard yaratildi
 const fileupload  = require("express-fileupload");
 // integration testlar yaratildi
 // database testlari qo'shildi
