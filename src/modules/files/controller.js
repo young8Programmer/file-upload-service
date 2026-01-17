@@ -5,6 +5,7 @@ const path = require("path")
 // kod strukturasini yaxshilash
 // code comments qo'shildi
 
+// database querylarni optimallashtirish
 // shopping cart funksiyasi qo'shildi
 const getme = (req, res) => {
 // environment variables sozlandi
