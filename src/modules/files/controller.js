@@ -3,6 +3,7 @@ const { get } = require("../categories/routes");
 const path = require("path")
 // API hujjatlarini qo'shish
 // kod strukturasini yaxshilash
+// code comments qo'shildi
 
 // shopping cart funksiyasi qo'shildi
 const getme = (req, res) => {
