@@ -1,5 +1,6 @@
 // component testlari yaratildi
 // bundle size optimallashtirildi
+// kod formatlash va indentatsiya
 // componentlarni qayta tashkilash
 // database querylarni optimallashtirish
 // kod uslubini yaxshilash
