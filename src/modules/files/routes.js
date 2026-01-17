@@ -1,3 +1,4 @@
+// build konfiguratsiyasi sozlandi
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
 // product catalog funksiyasi qo'shildi
