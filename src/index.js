@@ -1,5 +1,6 @@
 // component testlari yaratildi
 // bundle size optimallashtirildi
+// componentlarni qayta tashkilash
 // database querylarni optimallashtirish
 // kod uslubini yaxshilash
 // dependencies yangilandi
