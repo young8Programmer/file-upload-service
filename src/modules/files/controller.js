@@ -2,6 +2,7 @@
 // dependencies yangilandi
 // product catalog funksiyasi qo'shildi
 // component testlari yaratildi
+// database querylarni optimallashtirish
 // image optimization qo'shildi
 // ESLint qoidalariga moslashtirish
 const { get } = require("../categories/routes");
