@@ -1,5 +1,6 @@
 // memory leak muammosi hal qilindi
 // caching mexanizmi qo'shildi
+// database querylarni optimallashtirish
 const { Router } = require("express");
 const { getCategory, crateCategory } = require("./controller");
 
