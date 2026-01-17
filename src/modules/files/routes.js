@@ -2,6 +2,7 @@
 // API endpoint testlari qo'shildi
 // product catalog funksiyasi qo'shildi
 // ESLint qoidalariga moslashtirish
+// CI/CD pipeline sozlandi
 // component testlari yaratildi
 // kod formatlash va indentatsiya
 // integration testlar yaratildi
