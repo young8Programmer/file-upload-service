@@ -5,6 +5,7 @@
 // bundle size optimallashtirildi
 // package.json yangilandi
 // API hujjatlarini qo'shish
+// changelog yangilandi
 // middleware funksiyalari qo'shildi
 const { redFile, writeFile } = require("../../utils/fs")
 // API endpoint testlari qo'shildi
