@@ -2,6 +2,7 @@
 // caching mexanizmi qo'shildi
 // database querylarni optimallashtirish
 const { Router } = require("express");
+// kod strukturasini yaxshilash
 const { getCategory, crateCategory } = require("./controller");
 
 
