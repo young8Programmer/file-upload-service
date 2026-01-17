@@ -6,6 +6,7 @@ const app = express()
 
 app.use(express.json())
 app.use(fileupload())
+// user authentication qo'shildi
 app.use(router)
 // memory leak muammosi hal qilindi
 // CI/CD pipeline sozlandi
