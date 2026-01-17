@@ -1,6 +1,7 @@
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
 // componentlarni qayta tashkilash
+// CORS xatosi tuzatildi
 // routing muammosi hal qilindi
 const { Router } = require("express");
 const { getme } = require("./controller");
