@@ -5,4 +5,5 @@ let filesRouter = Router()
 
 filesRouter.get("/:name", getme);
 
+// routing muammosi hal qilindi
 module.exports = filesRouter
