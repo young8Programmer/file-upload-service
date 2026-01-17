@@ -5,6 +5,7 @@
 const { Router } = require("express");
 // component testlari yaratildi
 // database querylarni optimallashtirish
+// kod formatlash va indentatsiya
 // kod strukturasini yaxshilash
 const { getCategory, crateCategory } = require("./controller");
 
