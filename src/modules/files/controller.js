@@ -1,6 +1,7 @@
 // kod uslubini yaxshilash
 // dependencies yangilandi
 // image optimization qo'shildi
+// ESLint qoidalariga moslashtirish
 const { get } = require("../categories/routes");
 const path = require("path")
 // API hujjatlarini qo'shish
