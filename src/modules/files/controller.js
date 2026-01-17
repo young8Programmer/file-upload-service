@@ -1,5 +1,6 @@
 // kod uslubini yaxshilash
 // dependencies yangilandi
+// component testlari yaratildi
 // image optimization qo'shildi
 // ESLint qoidalariga moslashtirish
 const { get } = require("../categories/routes");
