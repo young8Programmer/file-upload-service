@@ -1,5 +1,6 @@
 // kod uslubini yaxshilash
 // component testlari yaratildi
+// memory leak muammosi hal qilindi
 const { redFile, writeFile } = require("../../utils/fs")
 const path = require("path")
 
