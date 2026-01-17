@@ -7,6 +7,7 @@
 // authentication xatosi tuzatildi
 // API hujjatlarini qo'shish
 const { Router } = require("express");
+// API endpoint testlari qo'shildi
 const { getme } = require("./controller");
 
 // ESLint qoidalariga moslashtirish
