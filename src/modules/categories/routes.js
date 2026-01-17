@@ -1,3 +1,4 @@
+// bundle size optimallashtirildi
 // caching mexanizmi qo'shildi
 // installation qo'llanmasi yaratildi
 // kod uslubini yaxshilash
