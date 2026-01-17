@@ -4,6 +4,7 @@ const path = require("path")
 // API hujjatlarini qo'shish
 // environment variables sozlandi
 // kod strukturasini yaxshilash
+// component testlari yaratildi
 // code comments qo'shildi
 
 // database querylarni optimallashtirish
