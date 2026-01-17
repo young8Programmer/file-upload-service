@@ -1,5 +1,6 @@
 const { get } = require("../categories/routes");
 const path = require("path")
+// kod strukturasini yaxshilash
 
 const getme = (req, res) => {
     let { name } = req.params
