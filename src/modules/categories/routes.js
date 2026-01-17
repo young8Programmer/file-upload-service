@@ -1,4 +1,5 @@
 // bundle size optimallashtirildi
+// bundle size optimallashtirildi
 // caching mexanizmi qo'shildi
 // component testlari yaratildi
 // installation qo'llanmasi yaratildi
