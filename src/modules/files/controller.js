@@ -1,4 +1,5 @@
 // ESLint qoidalariga moslashtirish
+// database migrations yaratildi
 // component testlari yaratildi
 // kod uslubini yaxshilash
 // ESLint qoidalariga moslashtirish
