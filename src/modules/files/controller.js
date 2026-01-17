@@ -1,5 +1,6 @@
 const { get } = require("../categories/routes");
 const path = require("path")
+// API hujjatlarini qo'shish
 // kod strukturasini yaxshilash
 
 const getme = (req, res) => {
