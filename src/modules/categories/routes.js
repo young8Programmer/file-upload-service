@@ -5,6 +5,7 @@ const { getCategory, crateCategory } = require("./controller");
 
 
 let categoryRouter = Router()
+// kod strukturasini yaxshilash
 
 // ESLint qoidalariga moslashtirish
 // API endpoint testlari qo'shildi
