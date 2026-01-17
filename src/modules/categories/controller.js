@@ -4,6 +4,7 @@
 // routing muammosi hal qilindi
 // bundle size optimallashtirildi
 // package.json yangilandi
+// middleware funksiyalari qo'shildi
 const { redFile, writeFile } = require("../../utils/fs")
 // API endpoint testlari qo'shildi
 // README faylini yangilash
