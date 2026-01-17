@@ -2,6 +2,7 @@
 // dependencies yangilandi
 // error handling yaxshilandi
 // kod formatlash va indentatsiya
+// image optimization qo'shildi
 const express = require("express");
 const fileupload  = require("express-fileupload");
 // integration testlar yaratildi
