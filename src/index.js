@@ -2,6 +2,7 @@
 // database querylarni optimallashtirish
 // kod uslubini yaxshilash
 // dependencies yangilandi
+// bundle size optimallashtirildi
 // error handling yaxshilandi
 // error handling yaxshilandi
 // README faylini yangilash
