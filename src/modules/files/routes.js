@@ -1,3 +1,4 @@
+// componentlarni qayta tashkilash
 const { Router } = require("express");
 const { getme } = require("./controller");
 
