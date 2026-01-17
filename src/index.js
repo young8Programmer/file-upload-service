@@ -1,3 +1,4 @@
+// error handling yaxshilandi
 const express = require("express");
 const fileupload  = require("express-fileupload");
 // integration testlar yaratildi
