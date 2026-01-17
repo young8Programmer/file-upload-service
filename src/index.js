@@ -1,4 +1,5 @@
 // database querylarni optimallashtirish
+// dependencies yangilandi
 // error handling yaxshilandi
 // kod formatlash va indentatsiya
 const express = require("express");
