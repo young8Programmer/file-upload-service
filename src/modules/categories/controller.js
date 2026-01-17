@@ -7,6 +7,7 @@
 // component testlari yaratildi
 // memory leak muammosi hal qilindi
 // changelog yangilandi
+// prettier formatlash
 // routing muammosi hal qilindi
 // bundle size optimallashtirildi
 // package.json yangilandi
