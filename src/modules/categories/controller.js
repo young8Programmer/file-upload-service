@@ -5,6 +5,7 @@
 // installation qo'llanmasi yaratildi
 // component testlari yaratildi
 // memory leak muammosi hal qilindi
+// changelog yangilandi
 // routing muammosi hal qilindi
 // bundle size optimallashtirildi
 // package.json yangilandi
