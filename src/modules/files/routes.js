@@ -7,6 +7,7 @@
 // kod formatlash va indentatsiya
 // integration testlar yaratildi
 // component testlari yaratildi
+// caching mexanizmi qo'shildi
 // componentlarni qayta tashkilash
 // CORS xatosi tuzatildi
 // routing muammosi hal qilindi
