@@ -4,6 +4,7 @@
 // bundle size optimallashtirildi
 // package.json yangilandi
 const { redFile, writeFile } = require("../../utils/fs")
+// API endpoint testlari qo'shildi
 // README faylini yangilash
 const path = require("path")
 
