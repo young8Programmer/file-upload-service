@@ -1,3 +1,4 @@
+// image optimization qo'shildi
 const { get } = require("../categories/routes");
 const path = require("path")
 // API hujjatlarini qo'shish
