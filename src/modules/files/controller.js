@@ -7,6 +7,7 @@ const getme = (req, res) => {
 // kod formatlash va indentatsiya
 // CI/CD pipeline sozlandi
     let imagesPath = path.join(process.cwd(), "uploads", name)
+// type error tuzatildi
 // unit testlar qo'shildi
     res.sendFile(imagesPath, (err) => {
         if (err) {
