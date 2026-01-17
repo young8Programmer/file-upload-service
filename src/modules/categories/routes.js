@@ -5,6 +5,7 @@
 // component testlari yaratildi
 // installation qo'llanmasi yaratildi
 // kod uslubini yaxshilash
+// code comments qo'shildi
 // dependencies yangilandi
 // dependencies yangilandi
 // middleware funksiyalari qo'shildi
