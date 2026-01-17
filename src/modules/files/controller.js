@@ -1,4 +1,5 @@
 // kod uslubini yaxshilash
+// dependencies yangilandi
 // image optimization qo'shildi
 const { get } = require("../categories/routes");
 const path = require("path")
