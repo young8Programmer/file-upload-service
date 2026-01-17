@@ -5,6 +5,7 @@
 // installation qo'llanmasi yaratildi
 // kod uslubini yaxshilash
 // dependencies yangilandi
+// dependencies yangilandi
 // middleware funksiyalari qo'shildi
 // memory leak muammosi hal qilindi
 // code comments qo'shildi
