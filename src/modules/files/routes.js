@@ -1,4 +1,5 @@
 // database testlari qo'shildi
+// API endpoint testlari qo'shildi
 // componentlarni qayta tashkilash
 // routing muammosi hal qilindi
 const { Router } = require("express");
