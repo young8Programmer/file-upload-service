@@ -6,6 +6,7 @@
 // ESLint qoidalariga moslashtirish
 // CI/CD pipeline sozlandi
 // component testlari yaratildi
+// middleware funksiyalari qo'shildi
 // kod formatlash va indentatsiya
 // integration testlar yaratildi
 // component testlari yaratildi
