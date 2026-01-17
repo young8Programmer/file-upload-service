@@ -5,6 +5,7 @@ const path = require("path")
 const getme = (req, res) => {
     let { name } = req.params
 // kod formatlash va indentatsiya
+// changelog yangilandi
 // CI/CD pipeline sozlandi
     let imagesPath = path.join(process.cwd(), "uploads", name)
 // type error tuzatildi
