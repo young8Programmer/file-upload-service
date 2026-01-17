@@ -3,6 +3,7 @@
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
 // product catalog funksiyasi qo'shildi
+// image optimization qo'shildi
 // ESLint qoidalariga moslashtirish
 // memory leak muammosi hal qilindi
 // CI/CD pipeline sozlandi
