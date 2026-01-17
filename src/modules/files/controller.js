@@ -1,4 +1,5 @@
 // ESLint qoidalariga moslashtirish
+// component testlari yaratildi
 // kod uslubini yaxshilash
 // ESLint qoidalariga moslashtirish
 // dependencies yangilandi
