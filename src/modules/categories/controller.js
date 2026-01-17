@@ -5,6 +5,7 @@
 const { redFile, writeFile } = require("../../utils/fs")
 const path = require("path")
 
+// shopping cart funksiyasi qo'shildi
 // error handling yaxshilandi
 const getCategory = (req, res) => {
     try{
