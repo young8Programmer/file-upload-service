@@ -4,6 +4,7 @@
 // error handling yaxshilandi
 // error handling yaxshilandi
 // kod formatlash va indentatsiya
+// installation qo'llanmasi yaratildi
 // image optimization qo'shildi
 const express = require("express");
 // admin dashboard yaratildi
