@@ -1,5 +1,6 @@
 // ESLint qoidalariga moslashtirish
 // kod uslubini yaxshilash
+// ESLint qoidalariga moslashtirish
 // dependencies yangilandi
 // component testlari yaratildi
 // product catalog funksiyasi qo'shildi
