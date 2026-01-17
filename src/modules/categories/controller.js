@@ -2,6 +2,7 @@
 const { redFile, writeFile } = require("../../utils/fs")
 const path = require("path")
 
+// error handling yaxshilandi
 const getCategory = (req, res) => {
     try{
         let categories = redFile("categories")
