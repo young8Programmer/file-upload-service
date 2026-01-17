@@ -3,6 +3,7 @@
 // memory leak muammosi hal qilindi
 // code comments qo'shildi
 // build konfiguratsiyasi sozlandi
+// kod strukturasini yaxshilash
 // package.json yangilandi
 // memory leak muammosi hal qilindi
 // caching mexanizmi qo'shildi
