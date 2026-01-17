@@ -1,3 +1,4 @@
+// error handling yaxshilandi
 // kod uslubini yaxshilash
 // component testlari yaratildi
 // memory leak muammosi hal qilindi
