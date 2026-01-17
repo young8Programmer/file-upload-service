@@ -1,5 +1,6 @@
 // bundle size optimallashtirildi
 // database querylarni optimallashtirish
+// kod uslubini yaxshilash
 // dependencies yangilandi
 // error handling yaxshilandi
 // error handling yaxshilandi
