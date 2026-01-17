@@ -4,6 +4,7 @@ const path = require("path")
 // API hujjatlarini qo'shish
 // kod strukturasini yaxshilash
 
+// shopping cart funksiyasi qo'shildi
 const getme = (req, res) => {
 // environment variables sozlandi
 // kod formatlash va tozalash
