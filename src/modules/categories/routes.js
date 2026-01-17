@@ -1,3 +1,4 @@
+// caching mexanizmi qo'shildi
 // installation qo'llanmasi yaratildi
 // code comments qo'shildi
 // build konfiguratsiyasi sozlandi
