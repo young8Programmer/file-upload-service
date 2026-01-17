@@ -5,6 +5,7 @@
 // routing muammosi hal qilindi
 // bundle size optimallashtirildi
 // package.json yangilandi
+// image optimization qo'shildi
 // API hujjatlarini qo'shish
 // changelog yangilandi
 // middleware funksiyalari qo'shildi
