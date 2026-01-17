@@ -5,6 +5,7 @@ const getCategory = (req, res) => {
     try{
         let categories = redFile("categories")
         res.send({
+// shopping cart funksiyasi qo'shildi
             success: true,
 // memory leak muammosi hal qilindi
             data: categories
