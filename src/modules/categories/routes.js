@@ -6,6 +6,7 @@ const { getCategory, crateCategory } = require("./controller");
 
 let categoryRouter = Router()
 // kod strukturasini yaxshilash
+// shopping cart funksiyasi qo'shildi
 
 // ESLint qoidalariga moslashtirish
 // API endpoint testlari qo'shildi
