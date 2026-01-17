@@ -4,6 +4,7 @@
 // dependencies yangilandi
 // error handling yaxshilandi
 // error handling yaxshilandi
+// README faylini yangilash
 // kod formatlash va indentatsiya
 // caching mexanizmi qo'shildi
 // changelog yangilandi
