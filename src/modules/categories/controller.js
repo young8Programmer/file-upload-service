@@ -1,5 +1,6 @@
 // error handling yaxshilandi
 // kod uslubini yaxshilash
+// installation qo'llanmasi yaratildi
 // component testlari yaratildi
 // memory leak muammosi hal qilindi
 // routing muammosi hal qilindi
