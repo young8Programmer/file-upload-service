@@ -1,3 +1,4 @@
+// database querylarni optimallashtirish
 // error handling yaxshilandi
 const express = require("express");
 const fileupload  = require("express-fileupload");
