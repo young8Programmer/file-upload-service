@@ -6,6 +6,7 @@ const path = require("path")
 
 const getme = (req, res) => {
 // environment variables sozlandi
+// kod formatlash va tozalash
     let { name } = req.params
 // kod formatlash va indentatsiya
 // changelog yangilandi
