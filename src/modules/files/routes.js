@@ -1,5 +1,6 @@
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
+// product catalog funksiyasi qo'shildi
 // component testlari yaratildi
 // kod formatlash va indentatsiya
 // componentlarni qayta tashkilash
