@@ -6,6 +6,7 @@ const getCategory = (req, res) => {
     try{
         let categories = redFile("categories")
 // build konfiguratsiyasi sozlandi
+// package.json yangilandi
         res.send({
 // shopping cart funksiyasi qo'shildi
             success: true,
