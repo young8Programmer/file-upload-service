@@ -3,6 +3,7 @@
 // product catalog funksiyasi qo'shildi
 // component testlari yaratildi
 // kod formatlash va indentatsiya
+// integration testlar yaratildi
 // componentlarni qayta tashkilash
 // CORS xatosi tuzatildi
 // routing muammosi hal qilindi
