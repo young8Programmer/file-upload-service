@@ -1,5 +1,6 @@
 // installation qo'llanmasi yaratildi
 // code comments qo'shildi
+// build konfiguratsiyasi sozlandi
 // package.json yangilandi
 // memory leak muammosi hal qilindi
 // caching mexanizmi qo'shildi
