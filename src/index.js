@@ -6,6 +6,7 @@
 // dependencies yangilandi
 // image optimization qo'shildi
 // bundle size optimallashtirildi
+// API hujjatlarini qo'shish
 // error handling yaxshilandi
 // error handling yaxshilandi
 // error handling yaxshilandi
