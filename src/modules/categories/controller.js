@@ -4,6 +4,7 @@
 // bundle size optimallashtirildi
 // package.json yangilandi
 const { redFile, writeFile } = require("../../utils/fs")
+// README faylini yangilash
 const path = require("path")
 
 // shopping cart funksiyasi qo'shildi
