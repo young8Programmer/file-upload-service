@@ -1,4 +1,5 @@
 // error handling yaxshilandi
+// image optimization qo'shildi
 // kod uslubini yaxshilash
 // installation qo'llanmasi yaratildi
 // component testlari yaratildi
