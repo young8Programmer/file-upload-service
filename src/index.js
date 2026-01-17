@@ -1,3 +1,4 @@
+// component testlari yaratildi
 // bundle size optimallashtirildi
 // database querylarni optimallashtirish
 // kod uslubini yaxshilash
