@@ -3,6 +3,7 @@
 // image optimization qo'shildi
 // componentlarni qayta tashkilash
 // kod uslubini yaxshilash
+// changelog yangilandi
 // integration testlar yaratildi
 // installation qo'llanmasi yaratildi
 // component testlari yaratildi
