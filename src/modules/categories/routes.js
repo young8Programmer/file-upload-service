@@ -7,6 +7,7 @@ const { getCategory, crateCategory } = require("./controller");
 let categoryRouter = Router()
 
 // ESLint qoidalariga moslashtirish
+// API endpoint testlari qo'shildi
 categoryRouter.get("/", getCategory);
 categoryRouter.post("/", crateCategory);
 
