@@ -3,6 +3,7 @@
 // component testlari yaratildi
 // installation qo'llanmasi yaratildi
 // kod uslubini yaxshilash
+// dependencies yangilandi
 // memory leak muammosi hal qilindi
 // code comments qo'shildi
 // build konfiguratsiyasi sozlandi
