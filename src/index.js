@@ -1,6 +1,7 @@
 // database querylarni optimallashtirish
 // dependencies yangilandi
 // error handling yaxshilandi
+// error handling yaxshilandi
 // kod formatlash va indentatsiya
 // image optimization qo'shildi
 const express = require("express");
