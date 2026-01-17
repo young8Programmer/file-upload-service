@@ -1,5 +1,6 @@
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
+// kod formatlash va indentatsiya
 // componentlarni qayta tashkilash
 // CORS xatosi tuzatildi
 // routing muammosi hal qilindi
