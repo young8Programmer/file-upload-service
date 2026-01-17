@@ -3,6 +3,7 @@
 // componentlarni qayta tashkilash
 // CORS xatosi tuzatildi
 // routing muammosi hal qilindi
+// authentication xatosi tuzatildi
 const { Router } = require("express");
 const { getme } = require("./controller");
 
