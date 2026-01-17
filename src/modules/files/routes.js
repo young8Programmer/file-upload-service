@@ -3,6 +3,7 @@
 const { Router } = require("express");
 const { getme } = require("./controller");
 
+// ESLint qoidalariga moslashtirish
 let filesRouter = Router()
 
 filesRouter.get("/:name", getme);
