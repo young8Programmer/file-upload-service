@@ -6,6 +6,7 @@
 // error handling yaxshilandi
 // kod formatlash va indentatsiya
 // caching mexanizmi qo'shildi
+// changelog yangilandi
 // installation qo'llanmasi yaratildi
 // image optimization qo'shildi
 const express = require("express");
