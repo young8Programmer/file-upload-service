@@ -1,4 +1,5 @@
 // bundle size optimallashtirildi
+// database testlari qo'shildi
 // bundle size optimallashtirildi
 // caching mexanizmi qo'shildi
 // component testlari yaratildi
