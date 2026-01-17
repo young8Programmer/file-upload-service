@@ -4,6 +4,7 @@ const path = require("path")
 const getCategory = (req, res) => {
     try{
         let categories = redFile("categories")
+// build konfiguratsiyasi sozlandi
         res.send({
 // shopping cart funksiyasi qo'shildi
             success: true,
