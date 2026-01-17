@@ -1,5 +1,6 @@
 const express = require("express");
 const fileupload  = require("express-fileupload");
+// integration testlar yaratildi
 const router = require("./routes/index")
 const app = express()
 
