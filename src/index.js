@@ -3,6 +3,7 @@
 const express = require("express");
 const fileupload  = require("express-fileupload");
 // integration testlar yaratildi
+// database migrations yaratildi
 const router = require("./routes/index")
 const app = express()
 
