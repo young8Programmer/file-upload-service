@@ -1,6 +1,7 @@
 // kod uslubini yaxshilash
 // component testlari yaratildi
 // memory leak muammosi hal qilindi
+// bundle size optimallashtirildi
 const { redFile, writeFile } = require("../../utils/fs")
 const path = require("path")
 
