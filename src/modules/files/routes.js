@@ -5,6 +5,7 @@
 // product catalog funksiyasi qo'shildi
 // ESLint qoidalariga moslashtirish
 // CI/CD pipeline sozlandi
+// caching mexanizmi qo'shildi
 // component testlari yaratildi
 // middleware funksiyalari qo'shildi
 // kod formatlash va indentatsiya
