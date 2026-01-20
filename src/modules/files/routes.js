@@ -1,8 +1,11 @@
 // build konfiguratsiyasi sozlandi
+// changelog yangilandi
+// README faylini yangilash
 // database querylarni optimallashtirish
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
 // product catalog funksiyasi qo'shildi
+// changelog yangilandi
 // image optimization qo'shildi
 // ESLint qoidalariga moslashtirish
 // memory leak muammosi hal qilindi
